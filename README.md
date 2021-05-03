@@ -22,3 +22,11 @@
     <img src="https://github.com/AndresBaquero-00/Modelo-Curso/blob/main/Diagrama_de_Clase.PNG" alt="Diagrama de Clases">
   </p>
 </div>
+
+ <h2>Diagrama de Secuencia</h2>
+ <div>
+  <p align='center'>
+    <img src="https://github.com/AndresBaquero-00/Modelo-Curso/blob/main/Diagrama%20de%20Secuencia.jpg" alt="Diagrama de Clases">
+  </p>
+</div>
+
